@@ -1,0 +1,4 @@
+/media/ldx/sd1/ldx/learn/项目/云备份/code/server/cmake-build-debug/CMakeFiles/lib.dir
+/media/ldx/sd1/ldx/learn/项目/云备份/code/server/cmake-build-debug/CMakeFiles/Server.dir
+/media/ldx/sd1/ldx/learn/项目/云备份/code/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/ldx/sd1/ldx/learn/项目/云备份/code/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
